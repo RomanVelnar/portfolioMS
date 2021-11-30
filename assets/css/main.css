@@ -172,6 +172,10 @@ input, select, textarea {
 
 	}
 
+	#headerSpace {
+		line-height: 30px;
+	}
+
 	blockquote {
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
@@ -315,7 +319,12 @@ input, select, textarea {
 			}
 
 		}
-
+/* Work */
+	#workXp {
+		border: 3px solid #56466A;
+		border-radius: 25px;
+		padding: 20px;
+	}	
 /* Image */
 
 	.image {
